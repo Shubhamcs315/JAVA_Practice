@@ -1,6 +1,6 @@
 # JAVA_Practice
 
-Created basic code:
+Basic codes:
 - print hello and name
 - operation(add, substract, multiply, divide, remender)
 - swap using third variable
