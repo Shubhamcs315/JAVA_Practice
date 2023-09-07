@@ -10,5 +10,6 @@ public class Dollar_Rupees {
         double rupees = dollars * 73.5; 
         
         System.out.println(dollars + " US Dollars is equal to " + rupees + " Indian Rupees.");
+        sc.close();
     }
 }
