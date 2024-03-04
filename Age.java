@@ -6,7 +6,7 @@ class Age{
         String fname=sc.nextLine();
         System.out.println("Enter your age:");
         int age=sc.nextInt();
-        System.out.println("Hello "+fname+", your age is "+age+".");
+        System.out.println("Hello ggggg"+fname+", your age is "+age+".");
         sc.close();
 
 

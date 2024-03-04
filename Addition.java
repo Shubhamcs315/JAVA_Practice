@@ -8,7 +8,7 @@ public class Addition{
         System.out.println("Enter your second number: ");
         int b=sc.nextInt();
         int c=a+b;
-        System.out.println("Addition: "+c);
+        System.out.println("Addition1111: "+c);
         sc.close();
     }
 }
